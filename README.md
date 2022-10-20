@@ -1,4 +1,4 @@
-# Application
+## Application
 
 This application is a training to do a CRUD with Quarkus. I followed this simple tutorial https://www.youtube.com/watch?v=bhdWWFDmlxA.
 
